@@ -1,4 +1,4 @@
-# CS-Jacobs
+# Jacobs Coursework
 
 Assignment and Homework answers from my coursework.
 
